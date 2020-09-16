@@ -11,7 +11,7 @@ Web Development Class Project 1
  <p>The users are any people who own pets or are looking into getting one.</p>
  
  <h1>Comparison:</h>
- <p>The more popular pet stores, such as Pet Smart, have their own sites for displaying some ofthis information and for booking appointments. However, this idea is very different from what is currently out there while taking ideas from other, similar sites.
+ <p>The more popular pet stores, such as Pet Smart, have their own sites for displaying some ofthis information and for booking appointments. However, this idea is very different from what is currently out there while taking ideas from other, similar sites.</p>
 
 <h1 style="text-align:center;">Pet&Co</h1>
 <p style="text-align:center; border: 2px solid DodgerBlue;"><strong>September 20th marks a special occasion </strong></p>
